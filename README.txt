@@ -25,7 +25,7 @@ Technologies Used
 Installation
 ------------
 1. Clone the repository:
-   git clone https:/.git
+   git clone https://github.com/WEEDS-2005/Stock-prize-prediction.git
    cd lstm-stock-forecast
 
 2. (Optional) Create a virtual environment:
