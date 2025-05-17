@@ -25,7 +25,7 @@ Technologies Used
 Installation
 ------------
 1. Clone the repository:
-   git clone https://github.com/yourusername/lstm-stock-forecast.git
+   git clone https:/.git
    cd lstm-stock-forecast
 
 2. (Optional) Create a virtual environment:
